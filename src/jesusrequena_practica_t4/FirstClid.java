@@ -31,5 +31,6 @@ public class FirstClid{
     public static void main(String[] args) {
         cuadrado(5);
         System.out.println("Este mensaje es para un ejemplo de que es una modificación más reciente.");
+        System.out.println("Aqúi he editado el archivo a traves de github.");
     }
 }
